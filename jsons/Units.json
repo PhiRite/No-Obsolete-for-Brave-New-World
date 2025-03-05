@@ -311,7 +311,3 @@
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"promotions": ["Great Generals II"],
-		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
-		"attackSound": "shot"		
-	},
-	]
